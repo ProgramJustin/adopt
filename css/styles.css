@@ -1,4 +1,10 @@
-
+@media screen and (max-width: 1200px) {
+  body {
+  background-image: url("http://arcadenw.org/images/uploads/content-media/29-1_sewers-2.jpg");
+  background-size: 1200px;
+  background-repeat: no-repeat;
+}
+}
 body {
   background-image: url("http://arcadenw.org/images/uploads/content-media/29-1_sewers-2.jpg");
   background-size: 2500px;
